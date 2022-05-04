@@ -1,16 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
- */
 
 package com.introtojava;
-/**
- *
- * @author mahmoudali1842001
- */
-public class Mavenproject4 {
+import java.util.Scanner;
 
+public class Mavenproject4 {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Scanner input= new Scanner(System.in);
+        
+        
     }
 }
